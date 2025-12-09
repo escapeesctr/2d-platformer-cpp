@@ -71,7 +71,7 @@ void Game::updateCamera() {
 }
 ```
 
-##🚀 What I Learned
+## 🚀 What I Learned
 - 2D game physics implementation
 - Collision detection algorithms (AABB)
 - Camera systems for platformers
@@ -80,19 +80,19 @@ void Game::updateCamera() {
 - SFML viewport and coordinate systems
 - Object-oriented game architecture
 
-##📈 Performance Features
+## 📈 Performance Features
 - Frame-rate independent movement (60 FPS)
 - Efficient collision checking
 - Minimal object creation/destruction
 - Smart camera bounds checking
 
-##🎨 Visual Design
+## 🎨 Visual Design
 - Sky blue background (#87CEEB)
 - Color-coded game elements for clarity
 - Clean UI with score display
 - Responsive visual feedback
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 - Animated sprites instead of shapes
 - Sound effects and background music
 - Multiple levels with increasing difficulty
@@ -101,20 +101,20 @@ void Game::updateCamera() {
 - Save system for high scores
 - Level editor for custom platforms
 
-##🛠️ Build Instructions
+## 🛠️ Build Instructions
 - Install SFML and configure include/library paths
 - Build with Visual Studio (x64, Debug)
 - Copy SFML DLLs to executable directory
 - Ensure font file is available or modify code
 
-##🎯 Real-World Applications
+## 🎯 Real-World Applications
 - Game engine development fundamentals
 - Physics simulation for interactive applications
 - AI programming for game characters
 - User interface design for games
 - Software architecture for real-time systems
 
-##🔗 Connect
+## 🔗 Connect
 - Portfolio: https://escapeesctr.github.io/my-portfolio/
 - LinkedIn: https://www.linkedin.com/in/melihenesaktas/
 - GitHub: @escapeesctr
